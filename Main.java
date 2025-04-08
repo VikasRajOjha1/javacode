@@ -4,7 +4,7 @@ public class Main {
     int b = 1, n=6;
     //code new build
     
-    System.out.print(a+ " " + b);
+    ystem.out.print(a+ " " + b);
     int c=0;
     for(int i=2; i <n ; i++) {
       c = a + b;
